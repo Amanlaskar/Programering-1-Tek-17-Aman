@@ -1,5 +1,7 @@
 package primitiva.datatyper;
 
+import java.util.Scanner;
+
 public class primitiva7 {
 
 	public static void main(String[] args) {
