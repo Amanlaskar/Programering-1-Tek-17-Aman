@@ -2,12 +2,12 @@ package primitiva.datatyper;
 
 import java.util.Scanner;
 
-public class primitiva7 {
+public class primitiva8 {
 
 	private static Scanner in;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		in = new Scanner(System.in);
         System.out.print("Input a float number: ");

@@ -1,5 +1,7 @@
 package primitiva.datatyper;
 
+import java.util.Arrays;
+
 public class primitiva5 {
 
 	public static void main(String[] args) {
@@ -20,4 +22,4 @@ public class primitiva5 {
             
 	}
 
-}
+
